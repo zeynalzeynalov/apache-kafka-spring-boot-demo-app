@@ -1,6 +1,12 @@
 # apache-kafka-spring-boot-demo-app
 Demo app with Apache Kafka and Spring Boot
 
+Start kafka and zookeeper docker containers:
+
+```
+docker-compose up -d
+```
+
 
 Show topic list:
 
